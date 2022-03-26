@@ -1,0 +1,43 @@
+body{
+    background-color: snow;
+    font-family: Raleway;
+}
+
+header{
+    background-color: lightblue;
+    text-align: center;
+    border-radius: 15px;
+    padding:1.5rem;
+}
+
+h1{
+    color: darkblue;
+    text-align: center;
+}
+
+#kysymys {
+    background-color: lightgreen;
+    border-radius: 15px;
+    text-align: center;
+    padding:0.5rem;
+    margin: 1rem;
+  }
+
+.vaihtoehto{
+    background-color: lightblue;
+    border-radius: 15px;
+    text-align: center;
+    padding: 0.5rem;
+    margin: 1rem;
+}
+
+#nappi{    
+    text-align: center;    
+}
+
+#seuraava{
+    background-color: lightyellow;
+    border-radius: 15px;
+    padding: 0.5rem;
+    margin: 1rem;
+}
